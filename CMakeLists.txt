@@ -1,2 +1,3 @@
+add_subdirectory(circular_buffer)
 add_subdirectory(dynamic_array)
 add_subdirectory(linked_list)
